@@ -14,4 +14,5 @@ In this challenge I create a deep neural network model to try to predict whether
 + TensorFlow  
 + Keras  
 
-
+## Contributors
+Jacob Vissering
